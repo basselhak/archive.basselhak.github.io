@@ -1,9 +1,3 @@
----
-layout: page
-title: Curriculum Vitae
-permalink: /cv/
----
-
 # Education
 
 - PhD in Politics and International Studies, University of Warwick, 2013-2017
