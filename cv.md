@@ -11,4 +11,4 @@
 
 # Positions held
 
-- Postdoctoral Researcher on the Horizon 2020 ENLIGHTEN Project ('European Legitimacy in Governing through Hard Times: The Role of European Networks', Project Grant No. 649456), Copenhagen Business School, 2017-present
+- Postdoctoral Researcher on the Horizon 2020 ENLIGHTEN Project ('European Legitimacy in Governing through Hard Times: The Role of European Networks', Project Grant No. 649456), Department of Business and Politics, Copenhagen Business School, 2017-present

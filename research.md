@@ -10,3 +10,7 @@ The overarching theme that runs through my research is the interaction between b
 - Innovation, technological change, disruption
 - European Union, transnational regulation & governance, public policy
 - Framing, lobbying, collective action
+
+# Publications
+
+I store all of my publications on [Academia.edu](https://cbs.academia.edu/JacobHasselbalch) and [Researchgate.net](https://www.researchgate.net/profile/Jacob_Hasselbalch). You should be able to browse them and download there. If not, get in touch.   
