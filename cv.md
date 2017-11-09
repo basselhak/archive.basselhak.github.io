@@ -1,3 +1,8 @@
+[Home](https://basselhak.github.io/)  
+[CV](https://basselhak.github.io/cv)  
+[Contact](https://basselhak.github.io/contact)  
+[Research](https://basselhak.github.io/research)   
+
 # Education
 
 - PhD in Politics and International Studies, University of Warwick, 2013-2017
