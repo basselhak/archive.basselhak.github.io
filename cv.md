@@ -1,7 +1,7 @@
 [Home](https://basselhak.github.io/)  
+[Research](https://basselhak.github.io/research)  
 [CV](https://basselhak.github.io/cv)  
 [Contact](https://basselhak.github.io/contact)  
-[Research](https://basselhak.github.io/research)   
 
 # Education
 
