@@ -4,10 +4,10 @@ Welcome to my personal website. Here you can keep up to date with my projects an
 
 **Contents**
 
-[Home](https://basselhak.github.io/)
-[CV](https://basselhak.github.io/cv)
-[Contact](https://basselhak.github.io/contact)
-[Publications](https://basselhak.github.io/publications)
+[Home](https://basselhak.github.io/)  
+[CV](https://basselhak.github.io/cv)  
+[Contact](https://basselhak.github.io/contact)  
+[Publications](https://basselhak.github.io/publications)  
 
 # Biography
 
