@@ -6,6 +6,7 @@ Welcome to my personal website. Here you can keep up to date with my projects an
 
 [Home](https://basselhak.github.io/)  
 [Research](https://basselhak.github.io/research)  
+[Tools and data](https://basselhak.github.io/tools)  
 [CV](https://basselhak.github.io/cv)  
 [Contact](https://basselhak.github.io/contact)  
 
