@@ -1,8 +1,8 @@
-[Home](https://basselhak.github.io/)
-[Research](https://basselhak.github.io/research)
+[Home](https://basselhak.github.io/)  
+[Research](https://basselhak.github.io/research)  
 [Tools and data](https://basselhak.github.io/tools)  
-[CV](https://basselhak.github.io/cv)
-[Contact](https://basselhak.github.io/contact)
+[CV](https://basselhak.github.io/cv)  
+[Contact](https://basselhak.github.io/contact)  
 
 # Tools and data
 
