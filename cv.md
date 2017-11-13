@@ -4,6 +4,8 @@
 [CV](https://basselhak.github.io/cv)  
 [Contact](https://basselhak.github.io/contact)  
 
+You can download a complete version of my CV [here](https://basselhak.github.io/uploads/JAH_CV_nov_2017.pdf).
+
 # Education
 
 - PhD in Politics and International Studies, University of Warwick, 2013-2017
