@@ -20,16 +20,10 @@ For the benefit of others, I've collected some of the packages, guides, and cour
 
 In terms of  tools for actual coding and analysis, I think the [Jupyter Notebook IDE](http://jupyter.org/) provides the best combination of ease-of-use, a great environment for exploratory data analysis, [literate programming](https://en.wikipedia.org/wiki/Literate_programming) (which is really wonderful for non-computer-science trained people like myself), and shareability.
 
-Other helpful links:
-
-- http://www.data-analysis-in-python.org/
-- https://jakevdp.github.io/PythonDataScienceHandbook/
-
-
 ## Natural language processing
 
 There are a ton of resources for doing natural language processing (NLP) in Python, especially thanks to the Natural Language Toolkit [(NLTK)](http://www.nltk.org/), which has been in development since 2001. For getting text from the web, the [Requests](http://docs.python-requests.org/en/master/) and [BeautifulSoup](https://www.crummy.com/software/BeautifulSoup/) packages are beyond compare. I'm also looking forward to getting into [Gensim](https://radimrehurek.com/gensim/) and [SpaCy](https://spacy.io/) for topic modeling and other text analysis tasks. NLP in Python has really benefited from what seems like a growing adoption of the language within history and the humanities. There are some really great guides available at the [Programming Historian](https://programminghistorian.org/), as well as Folgert Karsdorp's [interactive course](http://www.karsdorp.io/python-course/) written in Jupyter Notebooks.
 
 ## Network analysis
 
-The [NetworkX](https://networkx.github.io/) package is the go-to network analysis package in Python it seems. It's very easy to use, quite powerful, and under rapid development.
+The [NetworkX](https://networkx.github.io/) package is the go-to network analysis package in Python it seems. It's very easy to use, quite powerful, and under rapid development. NetworkX prioritizes graph manipulation and analysis instead of visualization. DataCamp has two good courses on [Network analysis in Python](https://www.datacamp.com/courses/network-analysis-in-python-part-1) by Eric Ma, who is also the maintainer of the [nxviz](http://nxviz.readthedocs.io/en/latest/) package for rational network visualizations, such as arc, hive, and circos plots. For other visualizations, I think NetworkX integrates very well with [matplotlib](https://matplotlib.org/), as well as supporting exports to [Gephi](https://gephi.org/).
