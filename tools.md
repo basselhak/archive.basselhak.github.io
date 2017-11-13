@@ -1,8 +1,8 @@
-[Home](https://basselhak.github.io/)  
-[Research](https://basselhak.github.io/research)  
-[Tools and data](https://basselhak.github.io/tools)  
-[CV](https://basselhak.github.io/cv)  
-[Contact](https://basselhak.github.io/contact)  
+[Home](http://jhasselbalch.org)  
+[Research](http://jhasselbalch.org/research)  
+[Tools and data](http://jhasselbalch.org/tools)  
+[CV](http://jhasselbalch.org/cv)  
+[Contact](http://jhasselbalch.org/contact)  
 
 # Tools and data
 
